@@ -26,4 +26,8 @@ Some of ideas put into the site were borrwed from:
 [Jeremy Wong Weddings](https://unsplash.com/@jeremywongweddings)    
 Author: __Victor Shaviya__
 
-
+## license
+ Licensed under the Apache License, Version 2.0    
+ [Apache License](http://www.apache.org/licenses/LICENSE-2.0)     
+ [Photographic Website]
+Copyright (C) [2021] [Shaviya]
