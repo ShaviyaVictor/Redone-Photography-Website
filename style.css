@@ -9,3 +9,5 @@
     background-color: #EEEEEE;
     padding: 0px 5px;
 }
+.heading :hover {
+    background-color: coral;
