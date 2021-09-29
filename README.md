@@ -6,6 +6,7 @@
 4. License
 
 ## Description
+The project came up with a wedding photographic website where beautiful memories are refreshed with just a click of a button.   
 The aim of this project was to create a photographic site whose objectives were to:
 - *Add to my site a list of my favorite photos*
 - *Write a short biography of the website*
