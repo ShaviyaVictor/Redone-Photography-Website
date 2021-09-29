@@ -15,3 +15,5 @@ The aim of this project was to create a photographic site whose objectives were 
 - *Create a repository on Github for my project*
 - *Familiarize myself with aking regular commits while working on the project*
 - *Publish the site on gh-pages*
+  
+## How to maneuver through the site
