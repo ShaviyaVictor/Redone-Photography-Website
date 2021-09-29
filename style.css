@@ -11,3 +11,8 @@
 }
 .heading :hover {
     background-color: coral;
+    justify-content: space-around; 
+    width: 120px;
+}
+.image {
+    display: flex;
