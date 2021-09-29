@@ -23,3 +23,8 @@
     font-size: 22px;
     padding: 5px;
 }
+a:hover {
+    color: coral;
+    padding: 8px;
+    background-color: darkolivegreen;
+}
